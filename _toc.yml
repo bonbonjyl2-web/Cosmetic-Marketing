@@ -1,0 +1,15 @@
+format: jb-book
+root: index
+chapters:
+  - file: week01_마케팅개요
+  - file: week02_시장이해
+  - file: week03_환경분석
+  - file: week04_경쟁자분석
+  - file: week05_고객이해
+  - file: week06_STP
+  - file: week07_시장조사
+  - file: week10_상품수명주기
+  - file: week11_가격전략
+  - file: week12_마케팅경로
+  - file: week13_유통경로
+  - file: week14_IMC
