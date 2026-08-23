@@ -1,0 +1,19 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 38645bb1-7052-42f4-9918-036569826b6e
+  # title: 화장품 마케팅 온라인 교재 
+  # description: 2026 2학기 강의 GMB
+  toc:
+    - file: index.md
+    # 나중에 chapter1.md 같은 새 단원 파일을 만들면 여기에 추가합니다.
+    # - file: chapter1.md
+  # keywords: []
+  # authors: []
+  # github:
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
