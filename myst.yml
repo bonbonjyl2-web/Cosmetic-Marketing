@@ -14,6 +14,9 @@ project:
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
 site:
   template: book-theme
-  # options:
-  #   favicon: favicon.ico
-  #   logo: site_logo.png
+ site:
+  template: book-theme
+  options:
+    base_url: /Cosmetic-Marketing/
+    # favicon: favicon.ico
+    # logo: site_logo.png
