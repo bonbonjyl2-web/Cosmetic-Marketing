@@ -28,8 +28,13 @@ jobs:
         with:
           node-version: '20'
 
+      - name: Clean old MyST build cache
+        run: |
+          rm -rf _build
+          rm -rf .myst
+
       - name: Install MyST
-        run: npm install -g mystmd@1.9.0
+        run: npm install -g mystmd@latest
 
       - name: Build HTML
         env:
