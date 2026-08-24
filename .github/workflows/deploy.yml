@@ -1,0 +1,20 @@
+name: Deploy Web
+on:
+  push:
+    branches: [ main ] # 만약 기본 브랜치명이 master라면 master로 변경
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      - name: Install MyST
+        run: npm install -g mystmd
+      - name: Build HTML
+        env:
+          BASE_URL: /Cosmetic-Marketing/
+        run: |
+          myst build --html
