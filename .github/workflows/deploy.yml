@@ -1,22 +1,7 @@
-name: Deploy Web
-on:
-  push:
-    branches: [ main ]
-
-jobs:
-  deploy:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-
-      - name: Install MyST
-        run: npm install -g mystmd@latest
+- name: Install MyST
+        run: npm install -g mystmd@1.9.3
 
       - name: Build HTML
         env:
           BASE_URL: /Cosmetic-Marketing/
-        run: npx myst build --html
+        run: npx myst build --html --force
