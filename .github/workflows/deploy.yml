@@ -15,9 +15,9 @@ jobs:
           node-version: '20'
 
       - name: Install MyST
-        run: npm install -g mystmd
+        run: npm install -g mystmd@1.9.0
 
       - name: Build HTML
         env:
           BASE_URL: /Cosmetic-Marketing/
-        run: npx myst build --html 
+        run: npx myst build --html --force
