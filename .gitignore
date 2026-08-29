@@ -2,3 +2,5 @@ _build/
 build/
 .myst/
 node_modules/
+# MyST build outputs
+_build
