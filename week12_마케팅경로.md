@@ -1,8 +1,10 @@
-<img width="1008" height="1043" alt="watermarked_img_5855972185530202471" src="https://github.com/user-attachments/assets/148fee2a-5686-4a3a-aa5c-9278e6616557" />
+
 # 12주차 화장품 마케팅 경로 
 --------
 
 화장품 마케팅의 경로 개념을 이해하고 마케팅 경로를 설계할 수 있다. 
+
+<img width="60" height="1043" alt="watermarked_img_5855972185530202471" src="https://github.com/user-attachments/assets/148fee2a-5686-4a3a-aa5c-9278e6616557" />
 ### 단위 수업 
 화장품 마케팅 경로 
 화장품 마케팅 경로 설계 
