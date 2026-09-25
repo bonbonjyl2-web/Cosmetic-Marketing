@@ -7,17 +7,17 @@ project:
   toc:
     - file: index.md
     - file: week01_마케팅개요.md
-    - file: week02_화장품시장의이해.md
-    - file: week03_화장품환경분석.md
-    - file: week04_화장품경쟁사분석.md
-    - file: week05_화장품고객의이해.md
-    - file: week06_화장품시장STP전략.md
-    - file: week07_화장품시장조사.md
+    - file: week02_시장이해.md
+    - file: week03_환경분석.md
+    - file: week04_경쟁사분석.md
+    - file: week05_고객이해.md
+    - file: week06_STP.md
+    - file: week07_시장조사.md
     - file: week10_상품수명주기.md
-    - file: week11_화장품가격전략.md
-    - file: week12_화장품마케팅경로.md
-    - file: week13_화장품유통관리.md
-    - file: week14_화장품통합적커뮤니케이션.md
+    - file: week11_가격전략.md
+    - file: week12_마케팅경로.md
+    - file: week13_유통관리.md
+    - file: week14_IMC.md
     
     # 나중에 chapter1.md 같은 새 단원 파일을 만들면 여기에 추가합니다.
     # - file: chapter1.md
