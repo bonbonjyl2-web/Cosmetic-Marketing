@@ -6,6 +6,19 @@ project:
   # description: 2026 2학기 강의 GMB
   toc:
     - file: index.md
+    - file: week01_화장품 마케팅 개요.md
+    - file: week02_화장품 시장의 이해.md
+    - file: week03_화장품 환경분석.md
+    - file: week04_화장품 경쟁사 분석.md
+    - file: week05_화장품 고객의 이해.md
+    - file: week06_화장품 시장 STP 전략.md
+    - file: week07_화장품 시장 조사.md
+    - file: week10_상품 수명주기.md
+    - file: week11_화장품 가격 전략.md
+    - file: week12_화장품 마케팅 경로.md
+    - file: week13_화장품 유통 관리.md
+    - file: week14_화장품 통합적 커뮤니케이션.md
+    
     # 나중에 chapter1.md 같은 새 단원 파일을 만들면 여기에 추가합니다.
     # - file: chapter1.md
   # keywords: []
